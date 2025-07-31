@@ -68,3 +68,11 @@ nav {
 ### Link
 
 CSS framework [Tailwindcss](https://www.youtube.com/)
+
+## Image dashboard
+![Dashboard](mora.png)
+
+
+## Badge 
+
+![website](https://img.shields.io/badge/Visit-Website-blue)(https://i.pinimg.com/)
